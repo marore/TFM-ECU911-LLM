@@ -14,8 +14,6 @@ El presente estudio propone una metodología integral para optimizar la gestión
 
 - `notebooks/` → Etapas del pipeline (preprocesamiento, inferencia, fine-tuning)
 - `data/` → Datasets anonimizados de muestra
-- `results/` → Resultados de experimentos (tablas, métricas)
-- `src/` → Scripts reutilizables (si los tienes)
 
 ## Requisitos
 
