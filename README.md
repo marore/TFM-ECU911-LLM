@@ -2,7 +2,6 @@
 
 Trabajo Fin de Máster en Análisis y Visualización de Datos Masivos  
 **Autor:** Marcos Orellana Cordero  
-**Director:** [Nombre del tutor]  
 **Universidad:** Universidad Internacional de La Rioja (UNIR)  
 **Fecha:** Febrero 2026
 
