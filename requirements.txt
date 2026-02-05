@@ -1,0 +1,1 @@
+Lista de dependencias del entorno para reproducibilidad del pipeline completo (transformers, vLLM, spacy, pandas, scikit-learn, torch, entre otros).
